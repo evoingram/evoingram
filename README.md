@@ -15,19 +15,13 @@ I enjoyed creating this software so much, I decided to attend Lambda, and now th
 
 ### My skills include:
 
-|               |              |              |
-|:-------------:|:------------:|:------------:|
-|      HTML     |      CSS     |  JavaScript  |
-|    Postman    | Visual Basic |      Git     |
-|      SQL      |  PostgreSQL  |     MySQL    |
-|     React     |     Redux    |     Node     |
-|    Express    |     Knex     |     Java     |
-|     Docker    |     LESS     |     Emmet    |
-|    Cortana    |     Jest     |    Cypress   |
-|     Formik    |  Powershell  |    Python    |
-|   TypeScript  |    GraphQL   | Tailwind CSS |
-|   Assembler   |     COBOL    |     REXX     |
-|      SDSF     |     z/OS     |   Agile PM   |
-| System Design |  Scalability |              |
+|               |              |              |                |              |              |
+|:-------------:|:------------:|:------------:|:--------------:|:------------:|:------------:|
+|      HTML     |      CSS     |  JavaScript  |     Postman    | Visual Basic |      Git     |
+|      SQL      |  PostgreSQL  |     MySQL    |      React     |     Redux    |     Node     |
+|    Express    |     Knex     |     Java     |      Docker    |     LESS     |     Emmet    |
+|    Cortana    |     Jest     |    Cypress   |      Formik    |  Powershell  |    Python    |
+|   TypeScript  |    GraphQL   | Tailwind CSS |    Assembler   |     COBOL    |     REXX     |
+|      SDSF     |     z/OS     |   Agile PM   |  System Design |  Scalability |              |
 
 ### Check out my pinned projects below:

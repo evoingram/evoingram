@@ -31,4 +31,4 @@ I enjoyed creating this software so much, I decided to attend Lambda, and now th
 |      SDSF     |     z/OS     |   Agile PM   |
 | System Design |  Scalability |              |
 
-Check out my pinned projects below:
+### Check out my pinned projects below:

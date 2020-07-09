@@ -6,14 +6,15 @@ As a solo entrepreneur, I needed a website and VB software to process work produ
 
 I enjoyed creating this software so much, I decided to attend Lambda, and now that I've completed the program, I’m very excited to bring my resourcefulness and problem-solving skills to my next venture. Contact me to help you create amazing software solutions!
 
-[Portfolio](http://www.ericaingram.com)
-[A Quo Co.](https://www.aquoco.co)
-[Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf)
-[LinkedIn](https://www.linkedin.com/in/aquocotrans/)
-[Email](mailto:evoingram@aquoco.onmicrosoft.com)
+[Portfolio](http://www.ericaingram.com)<br>
+[A Quo Co.](https://www.aquoco.co)<br>
+[Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf)<br>
+[LinkedIn](https://www.linkedin.com/in/aquocotrans/)<br>
+[Email](mailto:evoingram@aquoco.onmicrosoft.com)<br>
 
 My skills include:
 
+|               |              |              |
 |---------------|--------------|--------------|
 |      HTML     |      CSS     |  JavaScript  |
 |    Postman    | Visual Basic |      Git     |

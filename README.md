@@ -8,11 +8,10 @@ I enjoyed creating this software so much, I decided to attend Lambda, and now th
 
 ### Contact me to help you create amazing software solutions!
 
-[Portfolio](http://www.ericaingram.com)<br>
-[A Quo Co.](https://www.aquoco.co)<br>
-[Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf)<br>
-[LinkedIn](https://www.linkedin.com/in/aquocotrans/)<br>
-[Email](mailto:evoingram@aquoco.onmicrosoft.com)<br>
+
+|                                         |                                    |                                                         |                                                      |                                                  |
+|-----------------------------------------|------------------------------------|---------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|
+| [Portfolio](http://www.ericaingram.com) | [A Quo Co.](https://www.aquoco.co) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) |
 
 ### My skills include:
 

@@ -14,7 +14,7 @@ I enjoyed creating this software so much, I decided to attend Lambda, and now th
 
 My skills include:
 
-|                                             |
+|               |              |              |
 |---------------|--------------|--------------|
 |      HTML     |      CSS     |  JavaScript  |
 |    Postman    | Visual Basic |      Git     |

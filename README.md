@@ -17,13 +17,13 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 
 ### My skills include:
 
-|               |              |              |                |              |              |
-|:-------------:|:------------:|:------------:|:--------------:|:------------:|:------------:|
-|      HTML     |      CSS     |  JavaScript  |     Postman    | Visual Basic |      Git     |
-|      SQL      |  PostgreSQL  |     MySQL    |      React     |     Redux    |     Node     |
-|    Express    |     Knex     |     Java     |      Docker    |     LESS     |     Emmet    |
-|    Cortana    |     Jest     |    Cypress   |      Formik    |  Powershell  |    Python    |
-|   TypeScript  |    GraphQL   | Tailwind CSS |    Assembler   |     COBOL    |     REXX     |
-|      SDSF     |     z/OS     |   Agile PM   |  System Design |  Scalability |              |
+|            |            |              |         |               |             |
+|:----------:|:----------:|:------------:|:-------:|:-------------:|:-----------:|
+|    HTML    |     CSS    |  JavaScript  | Postman |  Visual Basic |     Git     |
+|     SQL    | PostgreSQL |     MySQL    |  React  |     Redux     |     Node    |
+|   Express  |    Knex    |     Java     |  Docker |      LESS     |    Emmet    |
+|   Cortana  |    Jest    |    Cypress   |  Formik |   Powershell  |    Python   |
+| TypeScript |   GraphQL  | Tailwind CSS |   UML   | System Design | Scalability |
+|  Agile PM  |  Assembler |     COBOL    |   REXX  |      z/OS     |     SDSF    |
 
 ### Check out my pinned projects below:

@@ -13,7 +13,7 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 
 |                                         |                                    |                                                         |                                                      |                                                  |
 |-----------------------------------------|------------------------------------|---------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|
-| [Portfolio](http://www.ericaingram.com) | [A Quo Co.](https://www.aquoco.co) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) |
+| [Portfolio](http://www.ericaingram.com) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) |[A Quo Co.](https://www.aquoco.co) | 
 
 ### My skills include:
 

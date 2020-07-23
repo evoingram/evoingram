@@ -6,7 +6,7 @@ As a solo entrepreneur, I needed a website and VB software to process work produ
 
 I enjoyed creating this software so much, I decided to attend Lambda, and now that I've completed the program, I’m very excited to bring my resourcefulness and problem-solving skills to my next venture. 
 
-I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm currently working on](https://github.com/users/evoingram/projects/2).
+I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm currently working on](https://github.com/users/evoingram/projects/2).  [Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.
 
 ### Contact me to help you create amazing software solutions!
 

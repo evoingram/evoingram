@@ -26,6 +26,6 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 |   Express  |    Knex    |     Java     |  Docker |      LESS     |    Emmet    |
 |   Cortana  |    Jest    |    Cypress   |  Formik |   Powershell  |    Python   |
 | TypeScript |   GraphQL  | Tailwind CSS |   UML   | System Design | Scalability |
-|  Agile PM  |  Assembler |     COBOL    |   REXX  |      z/OS     |     SDSF    |
+|  Agile PM  |    OOAD    |     COBOL    |   REXX  |      z/OS     |  Assembler  |
 
 ### Check out my pinned projects below:

@@ -11,7 +11,7 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 [Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It includes:
 
 - lots of data structures and algorithm problems 
-- lots of data structures and algorithm samples in Python
+- lots of data structures and algorithm samples in Python & gifs
 - all my notes for everything I've ever studied in the tech field
 - many, many Anki flash card decks
 - cheat sheets

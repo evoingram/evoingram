@@ -17,7 +17,7 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 - cheat sheets
 - video playlists
 - book lists
-- other resources such as the top 50 behavioral interview questions, coding challenge patterns, general self-study questions, various social media posts related to being a new developer, getting the most out of 1:1s, etc.
+- other resources such as the top 50 behavioral interview questions, coding challenge patterns, general self-study questions, various social media posts related to being a new developer, getting the most out of 1:1s, tutorials I like, etc.
 
 It's in progress and developing daily.
 

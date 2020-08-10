@@ -8,7 +8,7 @@ I enjoyed creating this software so much, I decided to attend Lambda, and now th
 
 I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm currently working on, my current daily grind](https://gist.github.com/evoingram/8b0f2c49954907c67b684ce3cd0c1fd3).  
 
-[Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It's in progress and developing daily, lots of data structures and algorithms problems in Python.  It includes all my notes for everything I've ever studied in the tech field, many, many Anki flash card decks, cheat sheets, and other resources such as the top 50 behavioral interview questions.
+[Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It's in progress and developing daily, lots of data structures and algorithms problems in Python.  It includes all my notes for everything I've ever studied in the tech field, many, many Anki flash card decks, cheat sheets, video playlists, book lists, and other resources such as the top 50 behavioral interview questions.
 
 ### Contact me to help you create amazing software solutions!
 

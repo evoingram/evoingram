@@ -21,12 +21,8 @@ I'm ALWAYS hustling, always have things to learn and do, so [here's what I'm cur
 
 It's in progress and developing daily.
 
-### Contact me to help you create amazing software solutions!
-
-
-|                                         |                                    |                                                         |                                                      |                                                  |
-|-----------------------------------------|------------------------------------|---------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|
-| [Portfolio](http://www.ericaingram.com) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) |[A Quo Co.](https://www.aquoco.co) | 
+### Contact me to help you create amazing software solutions: 
+| [Portfolio](http://www.ericaingram.com) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) | [A Quo Co.](https://www.aquoco.co) | 
 
 ### My skills include:
 

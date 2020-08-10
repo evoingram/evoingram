@@ -1,4 +1,4 @@
-### Hello there, 👋
+## Hello there, 👋
 
 My name's Erica Ingram, and I'm a software engineer seeking a position.
 
@@ -23,7 +23,7 @@ It's in progress and developing daily.
 
 ### Let me help you create amazing software solutions:  | [Portfolio](http://www.ericaingram.com) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) | [A Quo Co.](https://www.aquoco.co) | 
 
-### My skills include:
+## My skills include:
 
 |            |            |              |         |               |             |
 |:----------:|:----------:|:------------:|:-------:|:-------------:|:-----------:|
@@ -34,4 +34,4 @@ It's in progress and developing daily.
 | TypeScript |   GraphQL  | Tailwind CSS |   UML   | System Design | Scalability |
 |  Agile PM  |    OOAD    |     COBOL    |   REXX  |      z/OS     |  Assembler  |
 
-### Check out my pinned projects below:
+## Check out my pinned projects below:

@@ -23,6 +23,8 @@ It's in progress and developing daily.
 
 ### Let me help you create amazing software solutions:  | [Portfolio](http://www.ericaingram.com) | [Resume](https://www.aquoco.co/Erica_Ingram_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aquocotrans/) | [Email](mailto:evoingram@aquoco.onmicrosoft.com) | [A Quo Co.](https://www.aquoco.co) | 
 
+### Coding Challenge Profiles:  |   [Codewars](https://www.codewars.com/users/evoingram)   |   [Hackerrank](http://hackerrank.com/evoingram)   |   [Leetcode](https://leetcode.com/evoingram/)   |
+
 ## My skills include:
 
 |            |            |              |         |               |             |

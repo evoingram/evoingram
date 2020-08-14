@@ -1,6 +1,6 @@
 ## Hello there, 👋
 
-My name's Erica Ingram, and I am a recent Lambda School grad seeking a position as I transition careers.  I've been a hard worker my whole life.  My first job was detasseling.  In my past, I've done lots of different things; worked in retail, customer service, as a project manager @ Kinkos, run a news department for a gaming league with a readership of over 500k, and had a book published as well as articles featured on the front cover of Massive and Computer Games Magazines.  
+My name's Erica Ingram, and I am a recent Lambda School grad seeking a position as I transition careers.  I've been a hard worker my whole life.  My first job was detasseling for four full seasons.  In my past, I've done lots of different things; worked in retail, customer service, as a project manager @ Kinkos, run a news department for a gaming league with a readership of over 500k, and had a book published as well as articles featured on the front cover of Massive and Computer Games Magazines.  
 
 I am a leader by example, even when I am doing things for fun.  For a year and a half, I belonged to a guild in World of Warcraft which was 25th in the U.S. out of upwards of 10,000 guilds to clear Sunwell Plateau, and was present for and participated in each and every boss kill.  I was known for combat log analysis and helped mentor junior raiders by deeply analyzing logs and collaborating with other guildies to help juniors improve their rotations.
 

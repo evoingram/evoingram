@@ -17,7 +17,7 @@ During Lambda, I:
 - presented product vision and release canvasses for approval to the product owner.
 - gave presentations on supplemental content to teach students how to build certain apps.
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
-- received 14 references/recommendations while at school, seven on LinkedIn and seven more via Searchlight, a third-party service which hides the recommender's content from the recommendee.
+- received 14 references/recommendations, seven on LinkedIn and seven more via Searchlight, a third-party service which hides the recommender's content from the recommendee.
 - had over 4,100 GitHub contributions over the last year.
 - studied data structures and algorithms, CTCI, and Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
 

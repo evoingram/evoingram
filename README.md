@@ -20,7 +20,7 @@ During Lambda, I:
 - received 14 references/recommendations, seven on LinkedIn and seven more via Searchlight, a third-party service which hides nearly all the recommender's content from the recommendee in order to encourage candor.
 - had over 4,100 GitHub contributions over the last year.
 - studied data structures and algorithms in the core curriculum, in CTCI, and via Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
-- studied 40-50 system designs to learn system architecture as well as reading Clean Architecture by Bob Martin and the scalability book by Ejsmont.
+- studied 40-ish system designs to learn system architecture as well as reading Clean Architecture by Bob Martin and the scalability book by Ejsmont.
 - studied the Gang of Four book and a lot of YouTube videos to learn about object-oriented design patterns.
 - studied Clean Code and The Clean Coder by Bob Martin to learn how to write good code and how to be a true professional in the tech field.
 

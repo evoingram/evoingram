@@ -19,7 +19,7 @@ During Lambda, I:
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
 - received 14 references/recommendations, seven on LinkedIn and seven more via Searchlight, a third-party service which hides nearly all the recommender's content from the recommendee in order to encourage candor.
 - had over 4,100 GitHub contributions over the last year.
-- studied data structures and algorithms, CTCI, and Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
+- studied data structures and algorithms in the core curriculum, in CTCI, and via Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
 
 For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my attitude, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, worth every penny and more.
 

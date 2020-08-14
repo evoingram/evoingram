@@ -29,7 +29,7 @@ In every track at Lambda, each student goes through an eight-week 'apprenticeshi
 
 As a team lead, in addition to the group I led for the core curriculum, I managed several 7-10-member Agile teams, sometimes international and sometimes including developers from other tracks like Data Science, through what are called build weeks, where each cross-functional team has seven days to produce a working software product from design through deployment.  I hosted 1:1s with each of my core-curriculum students twice per week.
 
-For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my attitude, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, worth every penny and more.
+For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my resourcefulness, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, worth every penny and more.
 
 [Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It includes:
 

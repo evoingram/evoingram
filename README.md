@@ -19,7 +19,7 @@ During Lambda, I:
 - gave presentations on supplemental content to teach students how to build certain apps.
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
 - received 14 references/recommendations, seven on [LinkedIn](https://www.linkedin.com/in/aquocotrans/) and seven more via [Searchlight](http://searchlight.ai/), a third-party service which hides nearly all the recommender's content from the recommendee in order to encourage candor.
-- had over 4,100 GitHub contributions over the last year.
+- had over 4,200 GitHub contributions over the last year.
 - studied data structures and algorithms in the core curriculum, in CTCI, and via Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
 - studied 40-ish system designs to learn system architecture as well as reading Clean Architecture by Bob Martin and the scalability book by Ejsmont.
 - studied the Gang of Four book and a lot of YouTube videos to learn about object-oriented design patterns.

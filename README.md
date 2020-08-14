@@ -14,7 +14,7 @@ During Lambda, I:
 - built a [React/Redux clone](https://nasasearchclone.now.sh/), [code here](https://github.com/evoingram/nasaSearch), of the NASA images library, which is not in React/Redux.
 - built a [Cortana bot](https://github.com/evoingram/cortanaBot).
 - built a [Conway's Game of Life app](https://cs-bw.now.sh/), [code here](https://github.com/evoingram/cs-bw).
-- presented product vision and release canvasses for approval to the product owner.
+- prepared PowerPoint presentations and presented those to the product owner to get approval of product vision and release canvasses via Zoom.
 - gave presentations on supplemental content to teach students how to build certain apps.
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
 - received 14 references/recommendations, seven on LinkedIn and seven more via Searchlight, a third-party service which hides the recommender's content from the recommendee.

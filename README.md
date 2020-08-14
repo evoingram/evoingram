@@ -9,16 +9,16 @@ I've run my own court transcription business for over a decade.  My company's tr
 During Lambda, I:
 
 - overhauled my company's website, which now scores 91 in performance and 100 in accessibility, SEO, and best practices in Lighthouse reports.  
-- ported my VB-MySQL database to an online version, and you can check out both the Node.js and PostgreSQL back end I've done as well as the code from the original VB/MySQL database below, in my pinned items.  The back end has full and complete documentation and testing via Postman, schema, product vision document for the overall software, etc.
-- made this portfolio, a pretty cool piece of art themed around Olympic National Park, a place close to where I live.  It's heavy on CSS animation.  Try clicking on the sun to see the moon and stars!
-- built a React/Redux clone of the NASA images library, which is not in React/Redux, also available in the pinned items below.
-- built a Cortana bot.
+- ported my [VB-MySQL database](https://github.com/evoingram/vbDatabase) to an online version.  The [Node.js and PostgreSQL back end](https://github.com/evoingram/webapp-backend) has full and complete documentation and testing via Postman, schema, product vision document for the overall software, etc.
+- made a [portfolio](http://www.ericaingram.com) ([code here](https://github.com/evoingram/portfolio)), a pretty cool piece of art themed around Olympic National Park, a place close to where I live.  It's heavy on CSS animation.  Try clicking on the sun to see the moon and stars!
+- built a [React/Redux clone](https://github.com/evoingram/nasaSearch) of the NASA images library, which is not in React/Redux, also available in the pinned items below.
+- built a [Cortana bot](https://github.com/evoingram/cortanaBot).
 - presented product vision and release canvasses for approval to the product owner.
 - gave presentations on supplemental content to teach students how to build certain apps.
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
 - received 14 references/recommendations while at school, seven on LinkedIn and seven more via Searchlight, a third-party service which hides the recommender's content from the recommendee.
 - had over 4,100 GitHub contributions over the last year.
-- studied data structures and algorithms, CTCI, and Leetcode on the side for many, many hours.
+- studied data structures and algorithms, CTCI, and Leetcode [on the side](https://github.com/evoingram/endorsement) for many, many hours.
 
 For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  As always, I will take my attitude, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will be worth every penny.
 

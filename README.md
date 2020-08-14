@@ -25,7 +25,7 @@ During Lambda, I:
 - studied the Gang of Four book and a lot of YouTube videos to learn about object-oriented design patterns.
 - studied Clean Code and The Clean Coder by Bob Martin to learn more about how to write good code and how to be a true professional in the tech field.
 
-In every track at Lambda, each student goes through an eight-week 'apprenticeship'.  The student collaborates in two full continuous development cycles using Agile methodology from design through deployment, working in cross-functional teams.  I was responsible for all testing on the [project](https://github.com/evoingram/conference-contacts-fe/) as well as creating PowerPoint presentations to present the product vision and release canvasses to the product owner. 
+In every track at Lambda, each student goes through an eight-week 'apprenticeship'.  The student collaborates in two full continuous development cycles using Agile methodology from design through deployment, working in cross-functional teams.  I was responsible for all testing on the [project](https://github.com/evoingram/conference-contacts-fe/) as well as creating PowerPoint presentations and presenting the product vision and release canvasses to the product owner. 
 
 As a team lead, in addition to the group I led for the core curriculum, I managed several 7-10-member Agile teams, sometimes international and sometimes including developers from other tracks like Data Science, through what are called build weeks, where each cross-functional team has seven days to produce a working software product from design through deployment.  I hosted 1:1s with each of my core-curriculum students twice per week.
 

@@ -21,7 +21,7 @@ During Lambda, I:
 - had over 4,100 GitHub contributions over the last year.
 - studied data structures and algorithms, CTCI, and Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
 
-For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my attitude, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, and I will be worth every penny.
+For six of the nine months at Lambda, I went to school 40 hours a week, served as team lead in the evenings 16-20 hours per week, and ran my business in between.  Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my attitude, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, and I will be worth every penny and more.
 
 [Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It includes:
 

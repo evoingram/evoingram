@@ -9,9 +9,9 @@ I've run my own court transcription business for over a decade.  My company's tr
 During Lambda, I:
 
 - overhauled my company's website, which now scores 91 in performance and 100 in accessibility, SEO, and best practices in Lighthouse reports.  
-- ported my VB-MySQL database to an online version, and you can check out the Node.js and PostgreSQL back end I've done as well as the code from the original VB/MySQL database here.  It has full and complete documentation and testing via Postman, schema, product vision document for the overall software, etc.
+- ported my VB-MySQL database to an online version, and you can check out both the Node.js and PostgreSQL back end I've done as well as the code from the original VB/MySQL database below, in my pinned items.  The back end has full and complete documentation and testing via Postman, schema, product vision document for the overall software, etc.
 - made this portfolio, a pretty cool piece of art themed around Olympic National Park, a place close to where I live.  It's heavy on CSS animation.  Try clicking on the sun to see the moon and stars!
-- built a React/Redux clone of the NASA images library, which is not in React/Redux.
+- built a React/Redux clone of the NASA images library, which is not in React/Redux, also available in the pinned items below.
 - built a Cortana bot.
 - presented product vision and release canvasses for approval to the product owner.
 - gave presentations on supplemental content to teach students how to build certain apps.

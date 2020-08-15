@@ -89,6 +89,10 @@ As a team lead, in addition to the group I led for the core curriculum, I manage
 
 Now I've been endorsed by Lambda, and am seeking a position in the tech field.  I will take my resourcefulness, discipline, empathy, respect, problem-solving ability, teamwork, and grit with me wherever I land.  If you hire me, I will always bring my A game, worth every penny and more.
 
+[![Years Badge](https://badges.pufler.dev/years/evoingram)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/evoingram/evoingram)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/evoingram)](https://badges.pufler.dev)
+
 <img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 
 ## Resources

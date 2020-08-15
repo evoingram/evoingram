@@ -41,6 +41,7 @@ During Lambda, I:
 - studied 40-ish system designs to learn system architecture as well as reading Clean Architecture by Bob Martin and the scalability book by Ejsmont.
 - studied the Gang of Four book and a lot of YouTube videos to learn about object-oriented design patterns.
 - studied Clean Code and The Clean Coder by Bob Martin to learn more about how to write good code and how to be a true professional in the tech field.
+- completed [Master the Mainframe 2019 Part Three](https://www.youracclaim.com/users/erica-ingram/badges) as well as a few other mainframe-related badges.
 
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7a28cc)

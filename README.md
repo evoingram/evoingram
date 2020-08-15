@@ -19,8 +19,8 @@ I've run my own court transcription business remotely for over a decade.  My com
 
 ## Education
  
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoingram&hide=html&layout=compact&theme=radical&count_private=true" />
-  <img align="left" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=evoingram&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoingram&hide=html&layout=compact&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515&count_private=true" />
+  <img align="left" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=evoingram&show_icons=true&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515&count_private=true" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 During Lambda, I:
@@ -138,4 +138,36 @@ It's in progress and developing daily.
 </p>
 <br /><br />
 
-## Check out my pinned projects below:
+<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
+
+## Projects:
+
+<a href="https://github.com/evoingram/newAQCWebsite">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=newAQCWebsite&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+<a href="https://github.com/evoingram/nasaSearch">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=nasaSearch&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+
+<a href="https://github.com/evoingram/webapp-frontend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=webapp-frontend&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+<a href="https://github.com/evoingram/webapp-backend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=webapp-backend&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+
+<a href="https://github.com/evoingram/conference-contacts-fe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=conference-contacts-fe&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+<a href="https://github.com/evoingram/cortanaBot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=cortanaBot&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+
+<a href="https://github.com/evoingram/vbDatabase">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=vbDatabase&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+<a href="https://github.com/evoingram/cs-bw">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=cs-bw&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
+</a>
+
+

@@ -17,7 +17,7 @@ I've run my own court transcription business remotely for over a decade.  My com
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 
-## Education
+## Accomplishments
  
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoingram&hide=html&layout=compact&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515&count_private=true" />
   <img align="left" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=evoingram&show_icons=true&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515&count_private=true" />

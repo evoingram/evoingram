@@ -19,8 +19,8 @@ I've run my own court transcription business remotely for over a decade.  My com
 
 ## Education
  
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoingram&hide=html&layout=compact&theme=radical" />
-  <img align="left" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=evoingram&show_icons=true&theme=radical" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoingram&hide=html&layout=compact&theme=radical&count_private=true" />
+  <img align="left" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=evoingram&show_icons=true&theme=radical&count_private=true" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 During Lambda, I:

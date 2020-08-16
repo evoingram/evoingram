@@ -138,6 +138,8 @@ It's in progress and developing daily.
 </a>
 <a href="https://leetcode.com/evoingram/" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=7a28cc" /></a>
+<a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
+   <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" /></a>
 </p>
 <br /><br />
 

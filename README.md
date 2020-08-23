@@ -83,6 +83,7 @@ During Lambda, I:
 ![](https://img.shields.io/badge/General-Scalability-informational?style=flat&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/General-OOAD-informational?style=flat&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/General-Agile%20PM-informational?style=flat&logoColor=white&color=7a28cc)
+![](https://img.shields.io/badge/General-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=7a28cc)
 
 In every track at Lambda, each student goes through an eight-week 'apprenticeship'.  The student collaborates in two full continuous development cycles using Agile methodology from design through deployment, working in cross-functional teams.  I was responsible for all testing on the [project](https://github.com/evoingram/conference-contacts-fe/) as well as creating PowerPoint presentations and presenting the product vision and release canvasses to the product owner. 
 

@@ -73,6 +73,7 @@ During Lambda, I:
 ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/OS-z/OS-informational?style=flat&logo=IBM&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Windows&logoColor=white&color=7a28cc)
+![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=7a28cc)
@@ -83,7 +84,6 @@ During Lambda, I:
 ![](https://img.shields.io/badge/General-Scalability-informational?style=flat&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/General-OOAD-informational?style=flat&logoColor=white&color=7a28cc)
 ![](https://img.shields.io/badge/General-Agile%20PM-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/General-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=7a28cc)
 
 In every track at Lambda, each student goes through an eight-week 'apprenticeship'.  The student collaborates in two full continuous development cycles using Agile methodology from design through deployment, working in cross-functional teams.  I was responsible for all testing on the [project](https://github.com/evoingram/conference-contacts-fe/) as well as creating PowerPoint presentations and presenting the product vision and release canvasses to the product owner. 
 

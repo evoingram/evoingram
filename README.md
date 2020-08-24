@@ -134,13 +134,15 @@ It's in progress and developing daily.
 <a href="https://www.codewars.com/users/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-Codewars-informational?style=flat&logo=Codewars&logoColor=white&color=7a28cc" />
 </a>
-<a href="(http://hackerrank.com/evoingram" target="_blank">
+<a href="http://hackerrank.com/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-HackerRank-informational?style=flat&logo=HackerRank&logoColor=white&color=7a28cc" />
 </a>
 <a href="https://leetcode.com/evoingram/" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/%20-LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=7a28cc" /></a>
+   <img align="left" src="https://img.shields.io/badge/%20-LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=7a28cc" />
+</a>
 <a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" /></a>
+   <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
+</a>
 </p>
 <br /><br />
 

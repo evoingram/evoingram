@@ -95,23 +95,6 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 
-## Resources
-
-[Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It includes:
-
-- lots of data structures and algorithm problems 
-- lots of data structures and algorithm samples in Python & gifs
-- all my notes for everything I've ever studied in the tech field
-- many, many Anki flash card decks
-- cheat sheets
-- video playlists
-- book lists
-- other resources such as the top 50 behavioral interview questions, coding challenge patterns, general self-study questions, various social media posts related to being a new developer, getting the most out of 1:1s, tutorials I like, etc.
-
-It's in progress and developing daily.
-
-<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
-
 
 ## Contact
 
@@ -178,4 +161,19 @@ It's in progress and developing daily.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=cs-bw&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
 </a>
 
+<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 
+## Resources
+
+[Here are my notes and some extra tips and resources](https://github.com/evoingram/endorsement) I've picked up along the way at Lambda related to learning, interviewing, and job-searching.  It includes:
+
+- lots of data structures and algorithm problems 
+- lots of data structures and algorithm samples in Python & gifs
+- all my notes for everything I've ever studied in the tech field
+- many, many Anki flash card decks
+- cheat sheets
+- video playlists
+- book lists
+- other resources such as the top 50 behavioral interview questions, coding challenge patterns, general self-study questions, various social media posts related to being a new developer, getting the most out of 1:1s, tutorials I like, etc.
+
+It's in progress and developing daily.

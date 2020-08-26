@@ -148,7 +148,7 @@ It's in progress and developing daily.
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 
-## Projects:
+## Projects
 
 <a href="https://github.com/evoingram/newAQCWebsite">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=newAQCWebsite&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />

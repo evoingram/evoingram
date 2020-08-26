@@ -125,7 +125,7 @@ It's in progress and developing daily.
 <a href="https://linkedin.com/in/aquocotrans" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=7a28cc" />
   </a>      
-<a href="mailto:evoingram@aquoco.onmicrosoft.com" target="_blank">
+<a href="mailto:me@ericaingram.tech" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-Email-informational?style=flat&logoColor=white&color=7a28cc" />
   </a>      
 <a href="https://www.aquoco.co" target="_blank">

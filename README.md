@@ -116,7 +116,7 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
   </a>
 <a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
    <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
-</a><br />
+</a><br /><br />
 <a href="https://www.codewars.com/users/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/profile-Codewars-informational?style=flat&logo=Codewars&logoColor=white&color=7a28cc" />
 </a>

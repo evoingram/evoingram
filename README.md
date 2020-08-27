@@ -113,7 +113,10 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
   </a>      
 <a href="https://www.aquoco.co" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-A%20Quo%20Co.-informational?style=flat&logoColor=white&color=7a28cc" />
-  </a><br />
+  </a>
+<a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
+   <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
+</a><br />
 <a href="https://www.codewars.com/users/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/profile-Codewars-informational?style=flat&logo=Codewars&logoColor=white&color=7a28cc" />
 </a>
@@ -122,9 +125,6 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 </a>
 <a href="https://leetcode.com/evoingram/" target="_blank">
    <img align="left" src="https://img.shields.io/badge/profile-LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=7a28cc" />
-</a>
-<a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>
 <a href="https://sourcerer.io/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/profile-Sourcerer-informational?style=flat&logoColor=white&color=7a28cc" />

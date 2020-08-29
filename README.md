@@ -35,7 +35,7 @@ During Lambda, I:
 - prepared PowerPoint presentations and presented those to the product owner to get approval of product vision and release canvasses via Zoom.
 - gave presentations on supplemental content to teach students how to build certain apps.
 - on the side learned Java, TypeScript, Docker, UML, advanced Postman, advanced Agile methodology, PowerShell, advanced VB, system design, scalability, and object-oriented design patterns.
-- received 14 references/recommendations, seven on [LinkedIn](https://www.linkedin.com/in/aquocotrans/) and seven more via [Searchlight](http://searchlight.ai/), a third-party service which hides nearly all the recommender's content from the recommendee in order to encourage candor, which may be sent on request via e-mail.
+- received 14 references/recommendations, seven on [LinkedIn](https://www.linkedin.com/in/aquocotrans/) and seven more via [Searchlight](https://github.com/evoingram/evoingram/blob/master/Reference%20Report%20for%20Erica%20Ingram.pdf), a third-party service which hides nearly all the recommender's content from the recommendee in order to encourage candor, which may be sent on request via e-mail.
 - had over 5,500 GitHub contributions & 2.4 million lines of code in the last year.
 - studied data structures and algorithms in the core curriculum, in CTCI, and via Leetcode [on the side](https://github.com/evoingram/endorsement), mostly in Python, for many, many hours.
 - studied 40-ish system designs to learn system architecture as well as reading Clean Architecture by Bob Martin and the scalability book by Ejsmont.

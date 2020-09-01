@@ -44,47 +44,18 @@ During Lambda, I:
 - completed [Master the Mainframe 2019 Part Three](https://www.youracclaim.com/users/erica-ingram/badges) as well as a few other mainframe-related badges.
 
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Visual%20Basic-informational?style=flat&logo=Visual%20Basic&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Knex-informational?style=flat&&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=Jest&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Formik-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=flat&logo=Tailwind%20CSS&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-UML-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-COBOL-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-REXX-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Code-Assembler-informational?style=flat&logoColor=white&color=7a28cc)
+|  |  |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**    | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-Visual%20Basic-informational?style=flat&logo=Visual%20Basic&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-UML-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Code-COBOL-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Code-REXX-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Code-Assembler-informational?style=flat&logoColor=white&color=7a28cc) |
+| **Libraries**    | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Lib-Formik-informational?style=flat&logoColor=white&color=7a28cc) |
+| **Frameworks**   | ![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=Redux&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/FW-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/FW-Express-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/FW-Knex-informational?style=flat&logo=knex&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/FW-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/FW-Tailwind%20CSS-informational?style=flat&logo=Tailwind%20CSS&logoColor=white&color=7a28cc) |
+| **Databases**    | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7a28cc) |
+| **Testing**      | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=7a28cc) |
+| **General**      | ![](https://img.shields.io/badge/General-System%20Design-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/General-Scalability-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/General-OOAD-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/General-Agile%20PM-informational?style=flat&logoColor=white&color=7a28cc) |
+| **Other**        | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/OS-z/OS-informational?style=flat&logo=IBM&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=7a28cc) ![](https://img.shields.io/badge/Tools-Cortana-informational?style=flat&logoColor=white&color=7a28cc) |
 
-
-![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/OS-z/OS-informational?style=flat&logo=IBM&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Windows&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-Cortana-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/Tools-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/General-System%20Design-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/General-Scalability-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/General-OOAD-informational?style=flat&logoColor=white&color=7a28cc)
-![](https://img.shields.io/badge/General-Agile%20PM-informational?style=flat&logoColor=white&color=7a28cc)
-
+ <br />
+ 
 In every track at Lambda, each student goes through an eight-week 'apprenticeship'.  The student collaborates in two full continuous development cycles using Agile methodology from design through deployment, working in cross-functional teams.  I was responsible for all testing on the [project](https://github.com/evoingram/conference-contacts-fe/) as well as creating PowerPoint presentations and presenting the product vision and release canvasses to the product owner. 
 
 As a team lead, in addition to the group I led for the core curriculum, I managed several 7-10-member Agile teams, sometimes international and sometimes including developers from other tracks like Data Science, through what are called build weeks, where each cross-functional team has seven days to produce a working software product from design through deployment.  I hosted 1:1s with each of my core-curriculum students twice per week.

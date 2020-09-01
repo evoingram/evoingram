@@ -27,7 +27,7 @@ During Lambda, I:
 
 - had over 1,200 hours of hands-on development/coding time.
 - overhauled [my company's website](https://www.aquoco.co), [code here](https://github.com/evoingram/newAQCWebsite/), which now scores 91 in performance and 100 in accessibility, SEO, and best practices in Lighthouse reports.  
-- ported my [VB-MySQL database](https://github.com/evoingram/vbDatabase) to an online version.  The 126-endpoint [Node.js and PostgreSQL back end](https://github.com/evoingram/webapp-backend) has full and complete documentation and testing via Postman, schema, product vision document for the overall software, etc.
+- ported my [VB-MySQL database](https://github.com/evoingram/vbDatabase) to an online version.  The 126-endpoint [Node.js and PostgreSQL back end](https://github.com/evoingram/webapp-backend) has full and complete documentation and testing via Postman, schema, product vision document for the overall software, UML diagrams, etc.
 - made a [portfolio](http://www.ericaingram.com) ([code here](https://github.com/evoingram/portfolio)), a pretty cool piece of art themed around Olympic National Park, a place close to where I live.  It's heavy on CSS animation.  Try clicking on the sun to see the moon and twinkling stars!
 - built a [React/Redux clone](https://nasasearchclone.now.sh/), [code here](https://github.com/evoingram/nasaSearch), of the NASA images library, which is not in React/Redux.
 - built a [Cortana bot](https://github.com/evoingram/cortanaBot).

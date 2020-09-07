@@ -92,10 +92,11 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
    <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>
   
+  <br /><br />
+  
 <a href="https://github.com/evoingram/evoingram/blob/master/Reference%20Report%20for%20Erica%20Ingram.pdf" target="_blank">
    <img align="left" src="https://img.shields.io/badge/references-Searchlight-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>
-  <br /><br />
 <a href="https://www.codewars.com/users/evoingram" target="_blank">
    <img align="left" src="https://img.shields.io/badge/profile-Codewars-informational?style=flat&logo=Codewars&logoColor=white&color=7a28cc" />
 </a>

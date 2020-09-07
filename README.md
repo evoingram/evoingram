@@ -74,8 +74,11 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
    <img align="left" src="https://img.shields.io/badge/%20-Portfolio-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>      
 <a href="https://www.aquoco.co/Erica_Ingram_Resume.pdf" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/%20-Resume-informational?style=flat&logoColor=white&color=7a28cc" />
+   <img align="left" src="https://img.shields.io/badge/%20-Resume%20PDF-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>      
+<a href="https://gist.github.com/evoingram/3f73c92881179f4abcb4e9ee7c13a82f" target="_blank">
+   <img align="left" src="https://img.shields.io/badge/%20-Resume%20Markdown-informational?style=flat&logoColor=white&color=7a28cc" />
+</a>   
 <a href="https://linkedin.com/in/aquocotrans" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=7a28cc" />
   </a>      

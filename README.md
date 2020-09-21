@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello, my name's Erica Ingram. Welcome to my new portfolio. I'm a full-stack web developer, working in a JavaScript, Node, and React-based stack, and I love building apps and solving problems.  To learn more about me and how I work, please check out my new portfolio, which includes a video I recently made.  Because I am a developer more than a filmmaker, I'm of course most excited to show off the custom video player I built for it, which features captions, chapters, volume and playback speed controls, and social media sharing in addition to standard video controls.  I also transcribed the captions!
+Hello, my name's Erica Ingram.  I'm a full-stack web developer, working in a JavaScript, Node, and React-based stack, and I love building apps and solving problems.  To learn more about me and how I work, please check out my [new portfolio](http://www.ericaingram.com), which includes a video I recently made.  Because I am a developer more than a filmmaker, I'm of course most excited to show off the custom video player I built for it, which features captions, chapters, volume and playback speed controls, and social media sharing in addition to standard video controls.  I also transcribed the captions!
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
 

@@ -1,10 +1,10 @@
 <p>
-  <img align="center" src="https://www.aquoco.co/erica-ingram/img/github-header.jpg" />
+  <img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/github-header.jpg" />
 </p>
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
+<img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />
 
 ## About Me
 

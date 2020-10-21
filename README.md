@@ -26,7 +26,7 @@ Hello, my name's Erica Ingram.  I'm a full-stack web developer, working in a Jav
  
 You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/count.svg)!
 
-<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
+<img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />
 
 
 ## Contact
@@ -50,7 +50,7 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 <a href="https://www.aquoco.co" target="_blank">
    <img align="left" src="https://img.shields.io/badge/%20-A%20Quo%20Co.-informational?style=flat&logoColor=white&color=7a28cc" />
   </a>
-<a href="https://www.youracclaim.com/users/erica-ingram/badges" target="_blank">
+<a href="https://www.youracclaim.com/users/erica-ingram/artsy/badges" target="_blank">
    <img align="left" src="https://img.shields.io/badge/badges-YourAcclaim-informational?style=flat&logoColor=white&color=7a28cc" />
 </a>
   
@@ -74,7 +74,7 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 </p>
 <br /><br />
 
-<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
+<img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />
 
 ## Projects
 
@@ -110,4 +110,4 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=vbDatabase&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
 </a>
 
-<img align="center" src="https://www.aquoco.co/erica-ingram/img/horizontal-line.jpg" />
+<img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />

@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello, my name's Erica Ingram.  I'm a full-stack web developer with experience in a JavaScript, Node, PostgreSQL, and React-based stack.  I work on a React, Kotlin, Node, Typescript, and PostgreSQL stack in my day-to-day work.  I love building apps and solving problems.  To learn more about me and how I work, please check out my [portfolio](http://www.ericaingram.com), which includes a video I made.  Because I am a developer more than a filmmaker, I'm of course most excited to show off the custom video player I built for it, which features captions, chapters, volume and playback speed controls, and social media sharing in addition to standard video controls.  I also transcribed the captions.
+Hello, my name's Erica Ingram.  I'm a full-stack web developer with heavy back-end experience in both a Kotlin/Java/PostgreSQL/React and JavaScript/Node/PostgreSQL/React-based stacks.  I worked on a React, Kotlin/Java, and PostgreSQL stack in my day-to-day work at SoFi and a React, Kotlin, Java, Node, TypeScript, and PostgreSQL stack in my day-to-day work at Clearcover.  Previous to and during some of my tech work, I owned and operated a court transcription business for over 13 years.  I love building apps and solving problems.  To learn more about me and how I work, please check out my [portfolio](http://www.ericaingram.com), which includes a video I made.  Because I am a developer more than a filmmaker, I'm of course most excited to show off the custom video player I built for it, which features captions, chapters, volume and playback speed controls, and social media sharing in addition to standard video controls.  I also transcribed the captions.  
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />
 
@@ -73,7 +73,7 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 
 <img align="center" src="https://www.aquoco.co/erica-ingram/artsy/img/horizontal-line.jpg" />
 
-## Projects
+## Projects (Note:  these are all pretty old and I am working on new projects/updating old ones!!)
 
 <a href="https://github.com/evoingram/newAQCWebsite">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=newAQCWebsite&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
@@ -96,9 +96,6 @@ You are visitor ![Visitor Count](https://profile-counter.glitch.me/evoingram/cou
 </a>
 <a href="https://github.com/evoingram/conference-contacts-fe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=conference-contacts-fe&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
-</a>
-<a href="https://github.com/evoingram/cortanaBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=cortanaBot&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
 </a>
 <a href="https://github.com/evoingram/BlogBackEnd">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evoingram&repo=BlogBackEnd&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" />
